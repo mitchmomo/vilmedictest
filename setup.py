@@ -24,7 +24,6 @@ setup(
                       'omegaconf==2.0.6',
                       'urllib3==1.26.14',
                       'protobuf==3.19.6',
-                      'torchvision==0.9.1',
                       'rouge_score',
                       'youtokentome==1.0.3',
                       'tokenizers==0.11.6',
